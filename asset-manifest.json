@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poolgaming/static/css/main.f855e6bc.css",
+    "main.js": "/poolgaming/static/js/main.09188df1.js",
+    "static/js/453.c3a3e5d7.chunk.js": "/poolgaming/static/js/453.c3a3e5d7.chunk.js",
+    "index.html": "/poolgaming/index.html",
+    "main.f855e6bc.css.map": "/poolgaming/static/css/main.f855e6bc.css.map",
+    "main.09188df1.js.map": "/poolgaming/static/js/main.09188df1.js.map",
+    "453.c3a3e5d7.chunk.js.map": "/poolgaming/static/js/453.c3a3e5d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.09188df1.js"
+  ]
+}
